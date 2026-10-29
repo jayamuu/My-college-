@@ -17,6 +17,7 @@ const App = () => {
   return (
     <div>
 
+
       <Navbar />
       <Routes>
         <Route path='/home' element={<Home />} />
