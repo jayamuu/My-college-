@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Navbar from './Component/Navbar'
-import Fotter from './Component/fotter'
+import Fotter from './Component/Fotter'
 import Callage_card from './Component/Callage_card'
 import Home from './Pages/Home'
 import About from './Pages/About'
